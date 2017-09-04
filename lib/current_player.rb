@@ -10,4 +10,6 @@ end
 counter
 end
 
-def current_player
+def current_player(board)
+
+end
